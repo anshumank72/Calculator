@@ -1,0 +1,47 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  border-radius: 0px;
+  box-sizing: border-box;
+  font-size: 110%;
+}
+.App {
+  position: absolute;
+}
+
+.Maincalc {
+  position: relative;
+  margin: 0px;
+  padding: 0px;
+  border-radius: 0px;
+  box-sizing: border-box;
+  top: 200px;
+  left: 600px;
+}
+
+input[type="button"] {
+  width: 100px;
+  background: #4caf50;
+  border: 1px solid #222;
+  padding: 10px 20px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+input[type="button"]:active {
+  background: #ccc;
+}
+#root {
+  text-align: center;
+}
+.InputRow input {
+  width: 400px;
+  background: #ddd;
+  border: 0px;
+  color: #222;
+  padding: 10px;
+  text-align: right;
+}

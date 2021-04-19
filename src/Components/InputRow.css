@@ -1,0 +1,7 @@
+.InputRow input {
+  width: 400px;
+  border: 0;
+  background: #ddd;
+  color: #222;
+  text-align: right;
+}
